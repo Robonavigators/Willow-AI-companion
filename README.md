@@ -28,7 +28,6 @@ Willow is an interactive AI companion project powered by the **Seeed Studio XIAO
 
 To install the firmware without setting up the full development environment, follow these steps:
 
-```text
 1. Navigate to the Robonavigators ESP Flasher: [https://robonavigators.github.io/flash.html/](https://robonavigators.github.io/flash.html/)
 2. Select "Willow: AI companion" firmware from the menu.
 3. Connect your XIAO ESP32-S3 via USB.
