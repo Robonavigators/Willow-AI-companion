@@ -2,17 +2,17 @@
 
 
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 
 
 
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=flat-square)
 
 
 
 
-![Hardware: XIAO ESP32-S3](https://img.shields.io/badge/Hardware-XIAO_ESP32--S3-blue.svg?style=for-the-badge)
+![Hardware: XIAO ESP32-S3](https://img.shields.io/badge/Hardware-XIAO_ESP32--S3-blue.svg?style=flat-square)
 
 
 
