@@ -33,7 +33,7 @@ Willow is an interactive AI companion powered by the **Seeed Studio XIAO ESP32-S
 
 ## Wake Word Configuration
 
-Willow uses **"Hey Willow"** as its default wake word for hands-free activation.
+Willow uses **"Hey,Willow"** as its default wake word for hands-free activation.
 
 - The device continuously listens for the wake phrase in a low-power state.
 - Upon detection, Willow transitions to active listening mode, indicated by a facial animation change on the OLED display.
