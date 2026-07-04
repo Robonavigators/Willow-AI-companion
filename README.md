@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Hardware-XIAO_ESP32--S3-blue.svg?style=flat-square" alt="Hardware: XIAO ESP32-S3">
 </p>
 
-Willow is an interactive AI companion powered by the **Seeed Studio XIAO ESP32-S3**. Designed as a high-fidelity, expressive desktop companion, Willow features a crisp **0.96" SSD1306 OLED (Full White)** display, clear audio output via the **MAX98357A I2S Amplifier**, and precision voice capture through the **INMP441 MEMS Omnidirectional Microphone**. Willow is activated hands-free with the wake word **"Hey Willow"**, enabling natural, low-friction voice interaction.
+Willow is an interactive AI companion powered by the **Seeed Studio XIAO ESP32-S3**. Designed as a high-fidelity, expressive desktop companion, Willow features a crisp **0.96" SSD1306 OLED (Full White)** display, clear audio output via the **MAX98357A I2S Amplifier**, and precision voice capture through the **INMP441 MEMS Omnidirectional Microphone**. Willow is activated hands-free with the wake word **"Hey,Willow"**, enabling natural, low-friction voice interaction.
 
 ---
 
