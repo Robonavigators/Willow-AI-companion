@@ -12,7 +12,7 @@ Willow is an interactive AI companion powered by the **Seeed Studio XIAO ESP32-S
 
 ## Features
 
-- **Voice Activation:** Always-listening wake word detection — simply say **"Hey Willow"** to begin an interaction, no button press required.
+- **Voice Activation:** Always-listening wake word detection — simply say **"Hey,Willow"** to begin an interaction, no button press required.
 - **Expressive Interface:** Dynamic facial animations rendered on a high-contrast white OLED display.
 - **Audio Capability:** Powered by a 3W 4Ω speaker for clear, resonant AI vocal feedback.
 - **Voice Recognition:** High-precision audio capture using a professional-grade INMP441 MEMS microphone.
