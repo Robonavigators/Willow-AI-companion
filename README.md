@@ -46,7 +46,8 @@ Willow uses **"Hey,Willow"** as its default wake word for hands-free activation.
 To install the firmware without setting up a full development environment:
 
 1. Navigate to the [Robonavigators ESP Flasher](https://robonavigators.github.io/flash.html).
-2. Select **"Willow: AI Companion"** from the firmware menu.
-3. Connect your XIAO ESP32-S3 via USB.
-4. Select the appropriate COM/Serial port in the browser interface.
-5. Click **Upload** to flash the firmware.
+2. Click the Click to Show Firmwares then scroll or search for **"Willow: AI Companion"** from the firmware menu.
+3. Then Select **"Willow: AI Companion"**
+4. Connect your XIAO ESP32-S3 via USB.
+5. Select the appropriate COM/Serial port in the browser interface.
+6. Click **Upload** to flash the firmware.
